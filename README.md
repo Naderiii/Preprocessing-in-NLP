@@ -1,4 +1,4 @@
-# NLP
+# NLP Project
 
 In this project, we answer the following questions related to data cleaning by considering the attached dataset using Python programming language.
 
