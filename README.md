@@ -10,3 +10,10 @@ Some necessary cleaning techniques for dataset applied:
 * Hashtag removes
 * Tokenization
 * Stop words
+* Remove URLs
+* Remove HTML tags
+* Repeated characters reduction, for example: Hellllo → Hello
+* Remove capitalization/ Case normalization
+* Remove Whitespaces, for instance, He llo → Hello
+* Typo Correction/ Misspelled words: big “dada” → big “data”
+* Stemming or lemmatization
